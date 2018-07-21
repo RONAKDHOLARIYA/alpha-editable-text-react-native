@@ -2,7 +2,7 @@
 ## Installation
 
 ```
-npm i --save react-native-lightbox
+npm i --save npm i alpha-editable-text-react-native
 ```
 ## Usage 
 ```js
